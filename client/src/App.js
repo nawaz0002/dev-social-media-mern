@@ -37,5 +37,5 @@ const App = () => {
     </Provider>
   );
 }
-
+// A app where one create ,edit and delete personal profile, eduction, experience, skills and see the repos of user and then can create, edit,delete post as well as comment in the other post and like also and there is full functionality of authentication.
 export default App;
